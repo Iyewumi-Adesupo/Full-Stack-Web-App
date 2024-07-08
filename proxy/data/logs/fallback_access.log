@@ -1,0 +1,3 @@
+[08/Jul/2024:00:40:11 +0000] 404 - GET http 3.9.132.123 "/hudson" [Client 172.206.143.187] [Length 122] [Gzip 1.35] "Mozilla/5.0 zgrab/0.x" "-"
+[08/Jul/2024:00:48:12 +0000] 404 - HEAD http 3.9.132.123 "/Core/Skin/Login.aspx" [Client 101.32.192.203] [Length 0] [Gzip -] "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" "-"
+[08/Jul/2024:00:49:11 +0000] 400 - GET http 3.9.132.123 "/" [Client 87.236.176.190] [Length 252] [Gzip -] "Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)" "-"

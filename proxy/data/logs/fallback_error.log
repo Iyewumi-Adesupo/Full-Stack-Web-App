@@ -1,0 +1,2 @@
+2024/07/08 00:40:11 [error] 235#235: *545 open() "/var/www/html/hudson" failed (2: No such file or directory), client: 172.206.143.187, server: localhost-nginx-proxy-manager, request: "GET /hudson HTTP/1.1", host: "3.9.132.123"
+2024/07/08 00:48:12 [error] 235#235: *589 open() "/var/www/html/Core/Skin/Login.aspx" failed (2: No such file or directory), client: 101.32.192.203, server: localhost-nginx-proxy-manager, request: "HEAD /Core/Skin/Login.aspx HTTP/1.1", host: "3.9.132.123:80"
