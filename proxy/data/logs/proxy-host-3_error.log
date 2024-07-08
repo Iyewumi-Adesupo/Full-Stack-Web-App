@@ -1,0 +1,1 @@
+2024/07/08 10:39:13 [error] 266#266: *2368 upstream timed out (110: Connection timed out) while connecting to upstream, client: 102.89.23.169, server: db.iyeade.chickenkiller.com, request: "GET /login HTTP/1.1", upstream: "http://3.8.215.252:8080/login", host: "db.iyeade.chickenkiller.com"
